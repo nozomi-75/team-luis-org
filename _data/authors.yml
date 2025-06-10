@@ -2,6 +2,7 @@
 
 Keiaa:
   name: "Jill Abarte"
+  role: lead
   bio: "A student who loves coffee."
   avatar: "assets/images/authors/keiaa.jpg"
   links:
@@ -14,3 +15,36 @@ Keiaa:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
+
+Demeter:
+  name: "Jill Abarte"
+  role: core
+  bio: "A student who loves coffee."
+  avatar: "assets/images/authors/keiaa.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:keiaa.07.05.00@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nozomi-75.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nozomi-75"
+
+Brian:
+  name: "Jill Abarte"
+  role: alumni
+  bio: "A student who loves coffee."
+  avatar: "assets/images/authors/keiaa.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:keiaa.07.05.00@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nozomi-75.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/nozomi-75"
+

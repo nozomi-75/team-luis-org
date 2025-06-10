@@ -1,0 +1,17 @@
+<!-- _includes/authorbox.html -->
+<div class="author-box">
+  {% if author.avatar %}
+    <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+  {% endif %}
+  <div class="author-details">
+    <h3>{{ author.name }}</h3>
+    {% if author.bio %}
+      <p>{{ author.bio }}</p>
+    {% endif %}
+    <div class="author-links">
+      {% for link in author.links %}
+        <a href="{{ link.url }}" title="{{ link.label }}"><i class="{{ link.icon }}"></i></a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

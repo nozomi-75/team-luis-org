@@ -4,7 +4,14 @@
     <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
   {% endif %}
   <div class="author-details">
-    <h3>{{ author.name }}</h3>
+    <h3>
+      {{ author.name }}
+      {% if author.role %}
+        <span class="author-role-badge role-{{ author.role | downcase }}">
+          {{ author.role | capitalize }}
+        </span>
+      {% endif %}
+    </h3>
     {% if author.bio %}
       <p>{{ author.bio }}</p>
     {% endif %}

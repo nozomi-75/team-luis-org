@@ -41,9 +41,38 @@ excerpt: "Let's explore how technology empowers you to grasp new concepts and br
   margin: 0 0.3rem;
   color: inherit;
 }
+
+.author-role-badge {
+  display: inline-block;
+  margin-left: 0.5em;
+  padding: 0.15em 0.6em;
+  border-radius: 1em;
+  font-size: 0.5em;
+  font-weight: 600;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.role-lead {
+  background: #2e86de;
+  color: #fff;
+}
+.role-core {
+  background: #27ae60;
+  color: #fff;
+}
+.role-member {
+  background: #f1c40f;
+  color: #222;
+}
+.role-alumni {
+  background: #7f8c8d;
+  color: #fff;
+}
 </style>
 
-Hi, we are Team LUIS! 👋
+**Hi, we are Team LUIS! 👋**
 
 We're an organized initiative from Luis Y. Ferrer Jr. Senior High School, dedicated to promoting 21st-century learning with technology. At our core, we believe that technology transcends mere devices; it's about expanding possibilities, chasing opportunities, and enriching knowledge.
 

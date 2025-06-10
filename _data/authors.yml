@@ -16,11 +16,11 @@ Keiaa:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
 
-Demeter:
-  name: "Jill Abarte"
+Azure:
+  name: "Sarashina"
   role: core
-  bio: "A student who loves coffee."
-  avatar: "assets/images/authors/keiaa.jpg"
+  bio: "Design for the human."
+  avatar: "assets/images/authors/azure.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -32,11 +32,11 @@ Demeter:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
 
-Brian:
-  name: "Jill Abarte"
+Gaeul:
+  name: "Kim Gaeul"
   role: alumni
-  bio: "A student who loves coffee."
-  avatar: "assets/images/authors/keiaa.jpg"
+  bio: "No more time."
+  avatar: "assets/images/authors/gaeul.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -48,11 +48,11 @@ Brian:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
 
-Biboo:
-  name: "Jill Abarte"
+Wony:
+  name: "Wonyoung"
   role: member
-  bio: "A student who loves coffee."
-  avatar: "assets/images/authors/keiaa.jpg"
+  bio: "It's okay to repeat."
+  avatar: "assets/images/authors/wony.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

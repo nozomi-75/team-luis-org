@@ -1,7 +1,8 @@
-<!-- _includes/authorbox.html -->
 <div class="author-box">
   {% if author.avatar %}
     <img class="author-avatar" src="{{ author.avatar | relative_url }}" alt="{{ author.name }}">
+  {% else %}
+    <img class="author-avatar" src="bio-photo.jpg" alt="{{ author.name }}">
   {% endif %}
   <div class="author-details">
     <h3>
@@ -14,6 +15,8 @@
     </h3>
     {% if author.bio %}
       <p>{{ author.bio }}</p>
+    {% else %}
+      <p>"Learn, utilize, implement."</p>
     {% endif %}
     <div class="author-links">
       {% for link in author.links %}

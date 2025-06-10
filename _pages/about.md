@@ -41,7 +41,6 @@ excerpt: "Let's explore how technology empowers you to grasp new concepts and br
   margin: 0 0.3rem;
   color: inherit;
 }
-
 .author-role-badge {
   display: inline-block;
   margin-left: 0.5em;
@@ -53,7 +52,6 @@ excerpt: "Let's explore how technology empowers you to grasp new concepts and br
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
-
 .role-lead {
   background: #2e86de;
   color: #fff;

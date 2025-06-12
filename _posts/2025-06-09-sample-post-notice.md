@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Sample Post: Notice"
 author: Keiaa
 categories:
   - Blog

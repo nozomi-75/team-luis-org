@@ -27,12 +27,15 @@ Keiaa:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:keiaa.07.05.00@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://nozomi-75.github.io"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/keiaa.07.05.00/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://nozomi-75.github.io"
 
 Gaeul:
   name: "Kim Gaeul"

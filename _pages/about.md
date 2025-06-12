@@ -11,7 +11,7 @@ header:
   overlay_image: /assets/images/unsplash-image-1.webp
   actions:
     - label: "Join Us!"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+      url: "https://www.facebook.com/lyfjshs.teamluis"
 excerpt: "Let's explore how technology empowers you to grasp new concepts and bring your ideas to life, no matter your field."
 ---
 

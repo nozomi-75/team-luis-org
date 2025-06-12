@@ -34,7 +34,7 @@ author:
       url: "https://www.facebook.com/lyfjshs.teamluis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nozomi-75"
+      url: "https://github.com/nozomi-75/team-luis-org.github.io"
 
 footer:
   links:
@@ -43,7 +43,7 @@ footer:
       url: "https://www.facebook.com/lyfjshs.teamluis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/nozomi-75"
+      url: "https://github.com/nozomi-75/team-luis-org.github.io"
 
 defaults:
   - scope:

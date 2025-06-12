@@ -1,5 +1,5 @@
 title: Team LUIS
-logo: "assets/images/team-luis-alt-glyph.png"
+logo: "assets/images/team-luis-alt.webp"
 description: >-
   The official website of Team LUIS, the main ICT organization of Luis Y. Ferrer Jr. Senior High School.
 minimal_mistakes_skin: default
@@ -26,7 +26,7 @@ plugins:
 
 author:
   name: "Team LUIS"
-  avatar: "assets/images/team-luis-logo.png"
+  avatar: "assets/images/team-luis-logo.webp"
   bio: "A project initiative that promotes learning with technology."
   links:
     - label: "Facebook"

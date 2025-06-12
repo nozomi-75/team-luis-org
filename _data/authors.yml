@@ -5,7 +5,7 @@ Azure:
   role: lead
   batch: "2025-2026"
   bio: "Design for the human."
-  avatar: "assets/images/authors/azure.jpg"
+  avatar: "assets/images/authors/azure.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -22,7 +22,7 @@ Keiaa:
   role: core
   batch: "2025-2026"
   bio: "A student who loves coffee."
-  avatar: "assets/images/authors/keiaa.jpg"
+  avatar: "assets/images/authors/keiaa.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -39,7 +39,7 @@ Gaeul:
   role: alumni
   batch: "2024-2025"
   bio: "No more time."
-  avatar: "assets/images/authors/gaeul.png"
+  avatar: "assets/images/authors/gaeul.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -56,7 +56,7 @@ Wony:
   role: member
   batch: "2024-2025"
   bio: "It's okay to dream."
-  avatar: "assets/images/authors/wony.jpg"
+  avatar: "assets/images/authors/wony.webp"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

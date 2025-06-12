@@ -62,3 +62,6 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+lunr:
+  search_within_pages: true

@@ -1,0 +1,61 @@
+.author-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.author-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.author-avatar {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    margin-bottom: 1rem;
+}
+
+.author-details h3 {
+    margin: 0.2rem 0;
+}
+
+.author-links a {
+    margin: 0 0.3rem;
+    color: inherit;
+}
+
+.author-role-badge {
+    display: inline-block;
+    margin-left: 0.5em;
+    padding: 0.15em 0.6em;
+    border-radius: 1em;
+    font-size: 0.5em;
+    font-weight: 600;
+    vertical-align: middle;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.role-lead {
+    background: #2e86de;
+    color: #fff;
+}
+
+.role-core {
+    background: #27ae60;
+    color: #fff;
+}
+
+.role-member {
+    background: #f1c40f;
+    color: #222;
+}
+
+.role-alumni {
+    background: #7f8c8d;
+    color: #fff;
+}

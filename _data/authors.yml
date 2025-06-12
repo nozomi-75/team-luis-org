@@ -1,10 +1,11 @@
 # Batch of 2025-2026
 
-Keiaa:
-  name: "Jill Abarte"
+Azure:
+  name: "Sarashina"
   role: lead
-  bio: "A student who loves coffee."
-  avatar: "assets/images/authors/keiaa.jpg"
+  batch: "2025-2026"
+  bio: "Design for the human."
+  avatar: "assets/images/authors/azure.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -16,11 +17,12 @@ Keiaa:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nozomi-75"
 
-Azure:
-  name: "Sarashina"
+Keiaa:
+  name: "Jill Abarte"
   role: core
-  bio: "Design for the human."
-  avatar: "assets/images/authors/azure.jpg"
+  batch: "2025-2026"
+  bio: "A student who loves coffee."
+  avatar: "assets/images/authors/keiaa.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -35,6 +37,7 @@ Azure:
 Gaeul:
   name: "Kim Gaeul"
   role: alumni
+  batch: "2024-2025"
   bio: "No more time."
   avatar: "assets/images/authors/gaeul.png"
   links:
@@ -51,6 +54,7 @@ Gaeul:
 Wony:
   name: "Wonyoung"
   role: member
+  batch: "2024-2025"
   bio: "It's okay to dream."
   avatar: "assets/images/authors/wony.jpg"
   links:
